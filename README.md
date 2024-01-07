@@ -60,3 +60,27 @@ Respect the following design flow:
 ## Bonus points
 - Implement your own CSV file parser instead of using a library.
 - Use design patterns.
+
+
+## Bonus points
+- Implement your own CSV file parser instead of using a library.
+- Use design patterns.
+
+## Demo
+
+### Interface 1
+![Interface 1](./image-1.png)
+
+### Interface 1 - Upload File
+![Interface 2](./image-2.png)
+
+### Interface 2
+![Interface 3](./image-3.png)
+
+### Interface 3
+### Employee Table
+![Employee Table](./image-4.png)
+
+### Interface 3
+### Job Summary Table
+![Job Summary Table](./image-5.png)
